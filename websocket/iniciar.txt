@@ -1,0 +1,6 @@
+INICIAR SERVIDOR
+cd C:\xampp\htdocs\websocket
+"C:\xampp\php\php.exe" .\server.php
+INGRESAR USUARIO
+cd C:\xampp\htdocs\websocket
+"C:\xampp\php\php.exe" .\client.php
